@@ -1,1 +1,26 @@
-# movie-data-analysis
+TMBD Movie Dataset Analysis:-
+
+This project focuses on analyzing a dataset of 9,000+ movies collected from the TMDB (The Movie Database) API. The goal was to explore key trends and insights in the movie industry using data wrangling, cleaning, and visualization techniques in Python.
+
+✅ What Was Done:
+Imported and cleaned the TMDB dataset: handled missing values, removed duplicates, and dropped irrelevant columns.
+
+Performed exploratory data analysis (EDA) to uncover insights about movie popularity, genre frequency, revenue, and vote averages.
+
+Visualized relationships and trends using clear and insightful plots.
+
+📌 Key Findings:
+Drama was identified as the most frequent genre (~14%).
+
+Spider-Man: No Way Home was found to be the most popular movie.
+
+2020 had the highest number of movie releases.
+
+🧰 Skills & Tools Used:
+Data Cleaning & Manipulation: pandas, numpy
+
+Data Visualization: matplotlib, seaborn
+
+Exploratory Data Analysis (EDA)
+
+Feature Engineering & Aggregation
